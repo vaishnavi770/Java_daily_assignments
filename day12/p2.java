@@ -9,7 +9,7 @@ class Demo{
 	if(a>b){
 		System.out.println("Division is  "+(a/b));
 	}else{
-		System.out.println("Division is "+(b/a));
+		System.out.println("Division is "+(b/sa));
      }
   }
 }
